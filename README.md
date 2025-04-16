@@ -1,5 +1,6 @@
 # ExcelReaderBot
-User can upload excel file to telegram bot, bot save the excel file, read it and return content from this excel file to user  
+User can upload excel file to telegram bot, bot save the excel file, read it and return content from this excel file to user. 
+Program parsing price of items from urls and xpath.
 
 ## How to run
 1. Clone the repository
